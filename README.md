@@ -14,4 +14,4 @@ Features
 License
 -------
 
-Bobbæ is licensed under [the CC-BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/deed.en). ![CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.en)
+Bobbæ is licensed under [the CC-BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/deed.en).
